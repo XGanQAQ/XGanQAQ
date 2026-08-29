@@ -1,7 +1,7 @@
 # 🎮 Hi, I'm GanX 👋
 
 <p align="center">
-Game Programmer · Unity Developer · Engine Explorer
+Game Programmer
 </p>
 
 <p align="center">
@@ -12,31 +12,10 @@ Building Games, Tools and Experiments
 
 ## 👨‍💻 About Me
 
-* 🎓 Digital Media Technology Undergraduate (2027)
 * 💼 Unity Client Developer Intern
 * 🎮 Focused on Gameplay Programming & Engine Architecture
 * 🌱 Learning C++, Graphics Programming and ECS
 * 🚀 Building Games, Frameworks and AI-assisted Workflows
-
----
-
-## 🛠 Tech Stack
-
-**Game Development**
-
-Unity · Unreal Engine · Godot
-
-**Programming**
-
-C# · C++ · Python
-
-**Graphics**
-
-URP · ShaderLab · HLSL
-
-**Tools**
-
-Git · Docker · ASP.NET Core · Luban
 
 ---
 
@@ -52,29 +31,11 @@ Git · Docker · ASP.NET Core · Luban
 
 ---
 
-### ⚙️ GanFramework
-
-Reusable Unity framework.
-
-**Modules:** EventBus · UI · Resource Management · Config System
-
----
-
 ### 🤖 AI GameDev Pipeline
 
 Exploring AI-powered game development workflows.
 
 **Topics:** MCP · AI Agents · ComfyUI · Workflow Automation
-
----
-
-## 🎯 Current Focus
-
-* Modern C++
-* Engine Architecture
-* Rendering & Shader
-* ECS
-* Multiplayer Games
 
 ---
 
